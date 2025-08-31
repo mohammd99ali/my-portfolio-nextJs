@@ -22,43 +22,19 @@ const projects = [
      "MongoDB"
     ],
           github: "https://github.com/mohammd99ali/ShopHub",
-    live: "https://mohammd99ali.github.io/ShopHub/",
+    live: "https://shop-hub-ivory.vercel.app/",
   },
   {
     id: 2,
-    title: "ASCO Publications",
+    title: "Portfolio",
     description:
-      "A medical publishing platform by the American Society of Clinical Oncology (ASCO), published by Wolters Kluwer. It provides access to peer-reviewed oncology journals, clinical research, and educational resources for cancer professionals.",
+      "A modern, responsive portfolio website built with Next.js 14 and TypeScript, featuring a beautiful dark/light theme toggle, smooth animations with Framer Motion, and a stacked card layout for showcasing projects. The site includes interactive sections for hero, about, skills, projects, and contact, all styled with Tailwind CSS for a professional and engaging user experience.",
     image: "/api/placeholder/600/400",
-    tags: ["HTML", "SCSS", "JavaScript", "TypeScript", "Webpack", "Jest"],
-    live: "https://ascopubs.org",
+    tags: ["HTML", "JavaScript", "TypeScript", "Tailwind CSS", "Framer Motion", "Next.js", "React","Responsive Design principles"],
+    live: "https://mohammd-abuali.vercel.app/",
   },
-  {
-    id: 3,
-    title: "Neurology Journals",
-    description:
-      "Neurology is the official weekly peer‐reviewed medical journal of the American Academy of Neurology (AAN), published by Wolters Kluwer. It delivers cutting‐edge research, clinical findings, and educational content for neurologists and neuroscience professionals",
-    image: "/api/placeholder/600/400",
-    tags: ["HTML", "SCSS", "JavaScript", "TypeScript", "Webpack", "Jest"],
-    live: "https://www.neurology.org",
-  },
-  {
-    id: 4,
-    title: "Graduation Project",
-    description:
-      "A web application designed to digitize the academic promotion process at my university, which previously lacked an online system. The platform supports multi-step workflows where each step requires supervisor review and approval. Faculty members can submit and track promotion requests, while supervisors can manage approvals, upload required documents, and form review.",
-    image: "/api/placeholder/600/400",
-    tags: [
-      "React.js",
-      "Material UI",
-      "Redux",
-      "Node.js",
-      "Express.js",
-      "MongoDB",
-    ],
-    github:
-      "https://github.com/mohammad-ali/promotion-system-my-graduation-project",
-  },
+ 
+  
 ];
 
 // Stacked Project Card Component
