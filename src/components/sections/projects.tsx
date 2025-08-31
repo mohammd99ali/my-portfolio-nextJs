@@ -31,7 +31,7 @@ const projects = [
       "A modern, responsive portfolio website built with Next.js 14 and TypeScript, featuring a beautiful dark/light theme toggle, smooth animations with Framer Motion, and a stacked card layout for showcasing projects. The site includes interactive sections for hero, about, skills, projects, and contact, all styled with Tailwind CSS for a professional and engaging user experience.",
     image: "/api/placeholder/600/400",
     tags: ["HTML", "JavaScript", "TypeScript", "Tailwind CSS", "Framer Motion", "Next.js", "React","Responsive Design principles"],
-    live: "https://mohammd-abuali.vercel.app/",
+    github: "https://github.com/mohammd99ali/my-portfolio-nextJs",
   },
  
   
