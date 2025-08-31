@@ -8,21 +8,21 @@ import { Github, ExternalLink } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "Decentralized Crowdfunding Platform",
+    title: "ShopHub - React E-commerce Application",
     description:
-      "A Web3-based crowdfunding platform built with blockchain technology to prevent fraud and ensure transparent fund usage. Contributors act as campaign approvers, reviewing and voting on spending requests before funds are released, promoting community-driven trust and accountability.",
-    image: "/api/placeholder/600/400",
+      "ShopHub is a modern, full-stack e-commerce web application built with React and Node.js. It provides a complete online shopping experience with user authentication, product management, shopping cart functionality, and an admin dashboard.",
     tags: [
       "Next.js",
-      "Shadcn UI",
-      "Blockchain",
-      "Solidity",
-      "Smart Contracts",
-      "Web3",
-      "Remix IDE",
+     "tailwind css",
+     "Redux Toolkit",
+     "React Router DOM",
+     "Vite",
+     "Node.js",
+     "Express.js",
+     "MongoDB"
     ],
-          github: "https://github.com/mohammad-ali/web3-kickstarter",
-    live: "https://web3-kickstarter-one.vercel.app",
+          github: "https://github.com/mohammd99ali/ShopHub",
+    live: "https://mohammd99ali.github.io/ShopHub/",
   },
   {
     id: 2,
