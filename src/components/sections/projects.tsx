@@ -33,6 +33,16 @@ const projects = [
     tags: ["HTML", "JavaScript", "TypeScript", "Tailwind CSS", "Framer Motion", "Next.js", "React","Responsive Design principles"],
     github: "https://github.com/mohammd99ali/my-portfolio-nextJs",
   },
+
+  {
+    id: 3,
+    title: "Graduation Project Intelligent Network Intrusion Detection System for Cyber Security",
+    description:"AI-Powered Network Intrusion Detection System – Developed using Python and machine learning techniques to monitor network traffic, detect anomalies, and identify potential cyber threats in real time. The system adapts through continuous learning, providing a scalable and intelligent cybersecurity solution."
+      ,
+    
+    tags: ["Python", "Machine Learning", "Intrusion Detection", "Cyber Security", "Network Traffic Analysis", "AI-Powered", "Continuous Learning"],
+    github: "https://github.com/mohammd99ali/my-portfolio-nextJs",
+  },
  
   
 ];
