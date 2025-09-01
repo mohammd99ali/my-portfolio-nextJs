@@ -41,7 +41,7 @@ const projects = [
       ,
     
     tags: ["Python", "Machine Learning", "Intrusion Detection", "Cyber Security", "Network Traffic Analysis", "AI-Powered", "Continuous Learning"],
-    github: "https://github.com/mohammd99ali/my-portfolio-nextJs",
+   
   },
  
   
