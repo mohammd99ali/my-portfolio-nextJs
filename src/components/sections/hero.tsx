@@ -449,7 +449,7 @@ export function Hero() {
                 },
                 {
                   icon: Linkedin,
-                  href: "https://www.linkedin.com/in/mohammd-ali-589301239",
+                  href: "https://www.linkedin.com/in/mohammed-abu-ali-589301239",
                   label: "LinkedIn",
                 },
                 {
